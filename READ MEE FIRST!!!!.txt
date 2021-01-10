@@ -1,0 +1,5 @@
+Use Doom II for this mod. and Load After Brutal Doom!!!
+
+How to use with Zandronum.
+
+Load it like normal ,Options make sure on the Set Video mode the render is on opengl, if the render isn't then turn it to opengl, then restart (Exit out of Zandronum normally the go back into Zandronum.)

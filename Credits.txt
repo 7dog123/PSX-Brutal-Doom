@@ -1,0 +1,157 @@
+Brutal Doom:
+
+Sergeant_Mark_IV (Creator)
+Mike12(Resource Contributors)
+Captain Toenail(Resource Contributors)
+Revolution (Resource Contributors)
+David G. Eriance (Resource Contributors)
+Perkristian (Resource Contributors)
+Dr. Doctor(Resource Contributors)
+Crucux Duo (Resource Contributors)
+DoomNukem (Resource Contributors)
+JoeyTD (Resource Contributors)
+DAS_M (Resource Contributors)
+Pa1Ki113r(Resource Contributors/BetaTester)
+HairyHog (BetaTester)
+The Big Robb (BetaTester)
+TastySnax(BetaTester)
+Sks23 (BetaTester)
+Mike Jackson (BetaTester)
+Aidin Zolghadr Anothony 'Ace-A101' Nemitzm(BetaTester)
+James Main 'lordsudo'(BetaTester)
+LepiSladja(BetaTester)
+Luka Königsberg Rungi (BetaTester)
+lain 'Guy from Mt Erebus' Lockhart(BetaTester)
+NEOSTAR (BetaTester)
+PickGor Krishni (BetaTester)
+Prime79 (BetaTester)
+ZioMcCall (BetaTester)
+Kianoosh Naghavi(BetaTester)
+Brian Rubsha (BetaTester)
+Roger 'DeathHeadSkull' Pennell (BetaTester)
+wrachesspawn(BetaTester)
+JuCstian (BetaTester)
+Boku (BetaTester)
+Micheal John Lusty Smith (BetaTester)
+Eduardo Esteban Roman Apiolaza(BetaTester)
+Brutal Doomguy (BetaTester)
+Dat'Cracka Skoobie (BetaTester)
+Dashie (BetaTester)
+David Bozociv 'Sasser'(BetaTester)
+RUSTYGOLD AKA NICKBROWN (BetaTester)
+Brian 'ZaroOmegaZX' (BetaTester)
+Jefferson Sales(BetaTester)
+Sorry If I forgot someone.
+Zero X. Diamond ("DoomGuy's Voice")
+Tiberiumoul (Friendly Mariens Voices)
+Andrew Hulshult (Special Thanks)
+John Romero (Special Thanks)
+Finfrosk (Special Thanks)
+
+PSX Doom TC Credits:
+
+fenderc01 (Maker of PSX DOOM TC/Resources/Tester)
+Dragonsbretheren (Updated TC Maker/Tester)
+Gez (Assistance with weapon and monster coding)
+Scottgray (Lead Programmer on PSX Final Doom maps)
+Omnipotus (PSX Final Doom Converter)
+lafoxxx (Rerecorded Music/Tester)
+unknownna (Multiple Bugfix Updates)
+scalliano (Credits roll/Tester)
+Sodaholic (Sprite/Palette Conversion)
+Testers:
+francis247uk
+buttspit
+GBT3
+Hellknight2012
+Charu
+nirv
+
+PSX Doom Lost Levels:
+
+Ultimate Doom
+Forsaken Keep [Hell Keep PC] - (NoneeLlama)
+Slough of Despair - (NoneeLlama)
+Dis - BaronOfStuff
+Warrens - (NoneeLlama, Salahmander2)
+They Will Repent - (fenderc01)
+Against Thee Wickedly - (DeXiaZ)
+And Hell Followed - (Avoozl)
+Fear - (fenderc01)
+Sewers - (BaronOfStuff)
+
+Doom 2
+Downtown - (DeXiaZ)
+Industrial Zone - (DeXiaZ)
+Gotcha! - (DeXiaZ)
+The Chasm - (fenderc01 & Salahmander2)
+The Spirit World - (Salahmander2)
+The Living End - (Dragonsbrethren)
+Icon of Sin - (BaronOfStuff)
+The Castle [Wolfenstein] - (BaronOfStuff)
+The Escape [Grosse] - (BaronOfStuff)
+Betray - (DeXiaZ)
+
+Master Levels
+Titan Manor - (DeXiaZ)
+Trapped on Titan [TTRAP.WAD] - (DeXiaZ)
+The Garrison [GARRISON.WAD] - (DeXiaZ)
+Black Tower [BLACKTWR.WAD] - (DeXiaZ)
+Bloodsea Keep [BLOODSEA.WAD] - (Dragonsbrethren)
+Mephisto's Maosoleum [MEPHISTO.WAD] - (DeXiaZ)
+The Express Elevator to Hell [TEETH.WAD MAP31] - (pcorf)
+Bad Dream [TEETH.WAD MAP32] - (BaronOfStuff)
+
+TNT
+Power Control - (Dragonsbrethren)
+Hanger - (DeXiaZ)
+Open Season - (Avoozl)
+Prison - (DeXiaZ)
+Metal - (DeXiaZ)
+Stronghold - (Salahmander2)
+Redemption - (BaronOfStuff)
+Storage Facility - (DeXiaZ)
+Steel Works - (pcorf)
+Dead Zone [secret exit to Pharaoh] - (Salahmander2)
+Mill - (DeXiaZ)
+Shipping/Respawning - (DeXiaZ)
+Central Processing - (DeXiaZ)
+Administration Center - (pcorf)
+Habitat - (DeXiaZ)
+Baron's Den - (Avoozl)
+Mount Pain - (DeXiaZ)
+River Styx - (Cryo)
+Last Call - (BaronOfStuff)
+Pharaoh [secret exit to Caribbean] - (Eris Falling)
+Caribbean - (DeXiaZ)
+
+Plutonia
+Well of Souls - (Dragonsbrethren)
+Caged - (Dragonsbrethren)
+Caughtyard - (Eris Falling)
+Realm - (Salahmander2)
+Abattoire - (Salahmander2)
+Hunted - (DeXiaZ)
+Speed - (DeXiaZ)
+The Crypt - (Salahmander2)
+Genesis - (Salahmander2)
+The Twilight [secret exit to Cyberden] - (DeXiaZ)
+The Omen - (DeXiaZ)
+Compound - (Salahmander2)
+Neurosphere - (Eris Falling)
+NME - (Salahmander2)
+Slayer - (Salahmander2)
+Impossible Mission - (DeXiaZ)
+The Final Frontier - (Salahmander2)
+The Temple of Darkness - (Salahmander2)
+Bunker - (DeXiaZ)
+Anti-Christ - (Salahmander2)
+The Sewers - (DeXiaZ)
+Odyssey of Noises - (Nuxius, DeXiaZ)
+The Gateway of Hell - (BaronOfStuff)
+Cyberden - (BaronOfStuff)
+Go 2 It - (BaronOfStuff)
+
+PSX Doom No Rest For The Living:
+
+Only known mapper for now is DeXiaZ

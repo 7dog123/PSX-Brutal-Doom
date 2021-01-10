@@ -1,0 +1,151 @@
+Version 13.3 (7/20/2016)
+
+Patched Some of the Monsters to PSX Standards
+
+Added an extra for UDV (Ultimate Doom Visor)
+Version 13.2 (7/2/2016)
+
+Fixed Dying Nightmare Imp with no leg from changing from the NightmareImp to the Normal Imp
+
+Version 13.1 (7/1/2016)
+
+Fixed Entering into the NRFLT Campain You would be stuck and unable to move after you beat the Lost Levels.
+
+Fixed the Nightmare Imps teeth. They used to look like the normal teeth when you beat the Imps.
+
+Version 13 (6/03/2016)
+
+Added NightmareImps they will ranadomly spawn with the regular Imps.
+
+Added Optional Archvile sound. (Aubrey Hodges PSX Archvile Sounds.)
+
+Added PSX Doom BrightMaps
+
+and Thanks to TheBarge for comming up with the Obituary for the NightmareImps.
+
+Version 12.2 (3/10/2016)
+
+Fixed the Spectres replaceing the Demons.
+
+Version 12.1 (3/2/2016)
+
+increased the nightmarespectre's health by 100 giving it a total of 300 health the health it's suppose to have.
+
+When finishing level 90 going onto the Lost Levels Campain the little glitch that won't let you move when you enter in after the Master levels in the the Lost Levels.
+
+Version 12 (2/25/2016)
+
+Added a pre-beta NRFTL (No Rest For The Living) Campain
+
+Version 11.1 (1/19/2016)
+
+NightmareSpectres looking like how they should look. (Use GZDoom 1.8.6 onwards or use Zandronum.)
+
+Fixed Willimans logo
+
+Added PSX Logo to the intro
+
+Version 11 (1/12/2016)
+
+NightmareSpectre Bodies are Destroyable
+
+Version 10 (11/26/2015)
+
+Problom with the NightmareSpectre's head not showing up fixed.
+
+PSX Lost levels Music Added
+
+Removed the hand held flashlight and replaced it with a shoulder mounted flashlight
+
+Updated maps to the recent ones
+
+Version 9 (10/29/2015)
+
+NightmareSpectre's Actor name has been Renamed from PSXNightmarespectre to NightmareSpectre
+
+NightmareSpectres now go invisable while they go after you normally
+
+Nightmare Fatalities are now stable
+
+Final 8 (10/8/2015)
+
+NightmareSpectre Fatalities are here at last!
+
+Added the Brutal Doom Credits to the PSX Credits
+
+Final 7 (7/4/2015)
+
+Updated Lost levels (20 maps updates to resent.)
+
+Fixed Map30 textures (I had MAP30.Wad in the textures folder)
+
+D6END fixed (It would transmission it to the normal Doom 2 ending.)
+
+Final 6 (6/26/2015)
+Zandronum support back on.
+
+Lost levels added in. (Nevermind the few months. I'm leaving the map numbers as they are.)
+
+You can now Kick, Taunt, Salute, and Throw grenades with the Flashlight turned on.
+
+Flashlight now back in the key config.
+
+Fixed level 30 from the Icon of sin level back to it's normal level
+
+Final 5 (6/23/2015)
+
+Fully compatible With BD20
+
+(Finished editing the maps for Icon of Sin, Wolfenstein, and Grosse now on to the lost levels give me a few months.)
+
+Final 4 (6/22/2015)
+
+Splashes, and dirt flying everywhere enabled. (Had to decompile the script. Link to the decompiler: http://www.jspenguin.org/software/listacs/ Command prompt use only).
+
+Sounds for the optional BDFootstep's now usable (Edited the TERRAIN.TXT)
+
+(Partly compatible with BD20 need is the classic playerclass)
+
+Lost levels will be out maybe in a few months.
+
+Final 3 (6/20/2015)
+
+Lost levels are Abandoned for now. Till I can get them re-aranged and get the maps for ICON of Sin, Wolfenstein, and Grosse and edit them properly.
+
+Dropped Version 19,
+
+Replaced the Beta Version 20 player with the real version of it.
+
+removed nashgore_blood and replaced it with Brutal_Blood on the NightmareSpectre.
+
+Final 2 (05/30/2015)
+
+Added Lost levels (Will give them the appropriate map numbers soon.)
+
+Final (02/05/2015)
+
+Williams Logo Restored.
+
+Maps 24, 53, 57, 58, 67, 75, and 80 Archvile's are limited.
+
+59 (Secret level Club Doom) Archvile's removed.
+
+Archvile Fatalities enabled Brutal doom 19.
+
+PSXBloodyChain Re-added (Archvile's still inside of the game not being replaced by the bloody chain.)
+
+Everything in sprites folder's removed except for the Nightmare Specter's PSX BloodyChain and Flashlight files
+
+Version 20 Player file added to remove the blood and annoying ticking sound removed. and Flashlight added into the file to be held by default.
+
+PSXCast Re-enabled since the colors are off for Zandronum (Sorry Zandronum Users you have to use GZDoom)
+
+Your preset keys can now be saved.
+
+Removed the Archvile.txt since it's already in the Brutal Doom Mods.
+
+Flashlight damage increased by 15.
+
+Flashlight's Light Radius increased.
+
+Orginal PSX Sounds are restored but the Weapon sounds are the same for Brutal Doom.
