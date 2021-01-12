@@ -1,0 +1,9 @@
+[submodule "PSX_BDBE"]
+	path = PSX_BDBE
+	url = https://github.com/7dog123/PSX_BDBE
+[submodule "PSX_BD"]
+	path = PSX_BD
+	url = https://github.com/7dog123/PSX_BD
+[submodule "PSX_DOOM_BASE"]
+	path = PSX_DOOM_BASE
+	url = https://github.com/7dog123/PSX_DOOM_BASE
