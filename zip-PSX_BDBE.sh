@@ -1,6 +1,11 @@
 #!/bin/sh
 
+cd PSX_BDBE
+
 zip -r PSX_BDBE.zip PSX_BDBE/*.txt PSX_BDBE/DECORATE* PSX_BDBE/*zsc PSX_BDBE/ACS PSX_BDBE/GRAPHICS/ PSX_BDBE/MAPS/ PSX_BDBE/SCRIPTS/ PSX_BDBE/bezscripts
 
-
 mv -v PSX_BDBE.zip PSX_BDBE.PK3
+
+mv -v *PK3 ../
+
+cd ../
