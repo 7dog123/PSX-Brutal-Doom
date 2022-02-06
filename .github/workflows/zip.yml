@@ -44,18 +44,18 @@ jobs:
       with:
         name: PSX-BD-PSX-BDBE-${{ steps.slug.outputs.sha8 }}-${{matrix.os}}
         path: PSX-BD-PSX-BDBE.zip
-    
+
     - name: Extract tag name
       if: startsWith(github.ref, 'refs/tags/')
       id: tag
       run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
 
-    - name: Create release
+    - name: Create pre-release
       if: github.ref == 'refs/heads/master'
       uses: softprops/action-gh-release@v1
       with:
         files: PSX-BD-PSX-BDBE.zip
-        prerelease: false
+        prerelease: true
         name: "Development build"
         tag_name: "latest"
       env:
@@ -66,6 +66,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         files: PSX-BD-PSX-BDBE.zip
+        prerelease: false
         tag_name: ${{ steps.tag.outputs.VERSION }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
